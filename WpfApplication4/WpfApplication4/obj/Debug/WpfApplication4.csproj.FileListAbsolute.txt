@@ -1,0 +1,32 @@
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+E:\Drive\Lectures output sa oop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+E:\Drive\Lectures output sa oop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+E:\Drive\Lectures output sa oop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Joven\Desktop\Lectures output sa oop\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Joven\Desktop\Lectures output sa oop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Joven\Desktop\Lectures output sa oop\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojAssemblyReference.cache
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.cache
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+H:\Object Oriented Programming\Lectures\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb

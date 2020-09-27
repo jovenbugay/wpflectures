@@ -1,0 +1,31 @@
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.pdb
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.g.cs
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\App.g.cs
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.lref
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.baml
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.Cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.exe
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.pdb
+C:\Users\49QRZL2\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csprojResolveAssemblyReference.cache
+E:\Drive\Lectures output sa oop\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+E:\Drive\Lectures output sa oop\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.exe
+E:\Drive\Lectures output sa oop\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.pdb
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.pdb
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csprojAssemblyReference.cache
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.g.cs
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\App.g.cs
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.lref
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.baml
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.cache
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.exe
+H:\Object Oriented Programming\Lectures\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.pdb

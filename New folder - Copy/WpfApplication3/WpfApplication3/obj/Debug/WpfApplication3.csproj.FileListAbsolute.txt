@@ -1,0 +1,17 @@
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+c:\users\49qrzl2\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+E:\Drive\Lectures output sa oop\New folder - Copy\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+E:\Drive\Lectures output sa oop\New folder - Copy\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+E:\Drive\Lectures output sa oop\New folder - Copy\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
